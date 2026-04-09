@@ -3,6 +3,7 @@
 A full-stack intelligent waste management system designed to optimize garbage collection using **AI-based waste classification**, **route-based collection**, and **role-based dashboards**.
 
 ---
+**Frontend Repo** ->https://github.com/ekansh-exe/pickuplorry-go
 
 ## 🚀 Overview
 
